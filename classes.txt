@@ -1,0 +1,7 @@
+programming;
+languages;
+networking;
+electronics;
+physics;
+comp-engineering;
+
