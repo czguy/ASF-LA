@@ -1,7 +1,1 @@
-programming;
-languages;
-networking;
-electronics;
-physics;
-comp-engineering;
-
+dir
